@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ansum2411@gmail.com**
 
-- ⚡ Fun fact **I also design Graphics**
+- ⚡ Fun fact **I also design Graphics (AE, AI,Premier pro) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
