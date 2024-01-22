@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **TOGO**
+- 👯 I’m looking to collaborate on **A complex todo application named togo**
 
 - 👨‍💻 All of my projects are available at [https://sumany.netlify.app/](https://sumany.netlify.app/)
 
