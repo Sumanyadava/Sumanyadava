@@ -29,9 +29,7 @@
 </p>
 
 <p align="left">
-LinkedIn - 
-
-https://www.linkedin.com/in/suman-yadav-7a6115227
+LinkedIn - https://www.linkedin.com/in/suman-yadav-7a6115227
 
 </p>
 
