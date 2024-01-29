@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanyadava&label=Profile%20views&color=0e75b6&style=flat" alt="sumanyadava" /> </p>
 
-- 🔭 I’m currently working on [My Protfolio](https://sumany.netlify.app/)
+- 🔭 I’m currently working as an intern at TECHPLEMENT as Fullstack developer
 
 - 🌱 I’m currently learning **MERN stack**
 
