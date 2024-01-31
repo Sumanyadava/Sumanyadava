@@ -25,7 +25,7 @@
   Email : ansum2411@gmail.com
 </p>
 <p align="left">
-  insta- (https://www.instagram.com/rawal_raw2/)
+  insta- https://www.instagram.com/rawal_raw2/
 </p>
 
 <p align="left">
