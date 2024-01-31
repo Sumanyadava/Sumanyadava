@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-  Email : ansum2411@gmail.com
+  Email - ansum2411@gmail.com
 </p>
 <p align="left">
   insta- https://www.instagram.com/rawal_raw2/
