@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I also do Graphics designing (AE, AI,Premier pro, Figma)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Want to Connect with me:</h3>
 <p align="left">
   
   Email - ansum2411@gmail.com
