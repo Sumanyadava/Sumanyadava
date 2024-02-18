@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sumany.netlify.app/](https://sumany.netlify.app/)
 
-- 💬 Ask me about **React , C/C++ , Scss,CSS**
+- 💬 Ask me about **React, Node, C/C++ , Scss,CSS**
 
 - 📫 How to reach me **ansum2411@gmail.com**
 
